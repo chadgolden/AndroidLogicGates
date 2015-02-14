@@ -15,7 +15,9 @@ import android.widget.AdapterView.*;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-
+/**
+ *
+ */
 public class MainActivity extends ActionBarActivity {
 
     private ListView logicListView;
